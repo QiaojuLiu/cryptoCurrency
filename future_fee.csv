@@ -1,0 +1,9 @@
+,exchange,level,maker_fee,taker_fee,asset_type
+0,okex,< 10000BTC,0.0003,0.0005,future
+1,okex,≥ 10000BTC,0.00025,0.00045,future
+2,okex,≥ 20000BTC,0.0002,0.0004,future
+3,okex,≥ 30000BTC,0.00015,0.00035,future
+4,okex,≥ 60000BTC,0.0001,0.0003,future
+5,okex,≥ 100000BTC,0.00005,0.00025,future
+6,okex,≥ 200000BTC,0,0.0002,future
+7,okex,≥ 300000BTC,-0.0001,0.0002,future

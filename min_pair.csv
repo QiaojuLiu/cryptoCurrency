@@ -1,0 +1,11 @@
+,exchange,name,pairs,area_code,coin_trade,fut_trade,oct_trade
+0,5yg,牛币网,0,hk,Y,N,N
+11,coinbbt,CoinBBT,0,hk,Y,N,N
+12,coincoming,币来网,0,hk,Y,N,N
+2,coinchel,Coinchel,0,kr,Y,N,Y
+6,huobicokr,火币韩国站,0,kr,Y,N,N
+20,otc_huobi_pro,火币点对点平台,0,sc,Y,N,N
+17,vipcoin,VIP交易所,0,sg,Y,N,N
+20,zxxcoin,Z网,0,sg,Y,N,N
+0,bitthai,BitThai,0,th,Y,N,N
+5,cryptogro,CryptoGro,0,us,Y,N,N
